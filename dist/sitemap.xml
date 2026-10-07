@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://jhirah.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://jhirah.com/about</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://jhirah.com/how</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://jhirah.com/for-customers</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://jhirah.com/for-businesses</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://jhirah.com/roadmap</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://jhirah.com/proposal</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://jhirah.com/terms</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://jhirah.com/privacy</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
+</urlset>

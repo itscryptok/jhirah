@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /addy
+
+Sitemap: https://jhirah.com/sitemap.xml
