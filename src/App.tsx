@@ -65,8 +65,9 @@ function stripBase(path: string): string {
     : path;
 }
 
+// Static clone: no Clerk key by design (shim renders signed-out). Never throw here.
 if (!clerkPubKey) {
-  throw new Error("Missing VITE_CLERK_PUBLISHABLE_KEY environment variable");
+  console.warn("Jhirah static clone: no Clerk publishable key — auth disabled.");
 }
 
 /** Clears the React Query cache whenever sign-in state changes */
